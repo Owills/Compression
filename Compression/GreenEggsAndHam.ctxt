@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=GreenEggsAndHam
+comment1.params=
+comment1.target=GreenEggsAndHam()
+comment10.params=hash
+comment10.target=java.lang.String\ toHexString(byte[])
+comment2.params=f
+comment2.target=java.lang.String\ getText(java.lang.String)
+comment3.params=
+comment3.target=long\ countCharacters()
+comment4.params=
+comment4.target=void\ setDictionary()
+comment5.params=
+comment5.target=void\ hardEncode()
+comment6.params=newFile
+comment6.target=void\ hardEncode(java.lang.String)
+comment7.params=
+comment7.target=void\ hardDecode()
+comment8.params=newFile
+comment8.target=void\ hardDecode(java.lang.String)
+comment9.params=input
+comment9.target=byte[]\ getSHA(java.lang.String)
+numComments=11

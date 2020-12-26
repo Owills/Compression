@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=HuffmanTree
+comment1.params=n
+comment1.target=HuffmanTree(Node)
+comment2.params=root\ s
+comment2.target=void\ printCode(Node,\ java.lang.String)
+comment3.params=root\ s\ code
+comment3.target=void\ getCode(Node,\ java.lang.String,\ java.util.Hashtable)
+comment4.params=root\ s
+comment4.target=java.lang.String\ encode(Node,\ java.lang.String)
+comment5.params=s
+comment5.target=java.lang.String\ decode(java.lang.String)
+comment6.params=temp\ s\ i
+comment6.target=java.lang.String\ decode(Node,\ java.lang.String,\ int)
+comment7.params=root
+comment7.target=int\ getDictionaryLength(Node)
+numComments=8

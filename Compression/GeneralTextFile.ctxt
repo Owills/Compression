@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=GeneralTextFile
+comment1.params=
+comment1.target=GeneralTextFile()
+comment10.params=input
+comment10.target=byte[]\ getSHA(java.lang.String)
+comment11.params=hash
+comment11.target=java.lang.String\ toHexString(byte[])
+comment2.params=f
+comment2.target=java.lang.String\ getText(java.lang.String)
+comment3.params=s
+comment3.target=Node\ getTree(java.lang.String)
+comment4.params=s
+comment4.target=Node\ getMostCommonChar(java.lang.String)
+comment5.params=
+comment5.target=void\ treeEncode()
+comment6.params=s
+comment6.target=void\ treeEncode(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ treeDecode()
+comment8.params=s
+comment8.target=java.lang.String\ treeDecode(java.lang.String)
+comment9.params=s
+comment9.target=void\ treeFileDecode(java.lang.String)
+numComments=12
